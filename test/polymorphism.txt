@@ -1,0 +1,1 @@
+the function to be invoked is decided at runtime on the basis of object type being referred by variable but the availability of the function is checked on the basis of reference variable type at compile time.
